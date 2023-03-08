@@ -1,0 +1,4 @@
+.idea
+__pycache__
+./Database_basics/databases.yaml
+/enviro.py

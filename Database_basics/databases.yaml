@@ -1,0 +1,7 @@
+ - ID: Local_Postgres
+   Type: MariaDB                                       # Database type e.g postgres, mysql, mariadb ...
+   Host: localhost                                      # Host/ IP-Adress
+   Port: 3306                                          # Port
+   Database: mysql                                  # Name of Database
+   User: root                                       # Username
+   Password: redbull                                  # User password
